@@ -65,11 +65,11 @@ https://dynamicinitiative.online/api
 
 ## hng-devops-stage0/
 - ├── architecture/
-- ├── nginx/
-- ├── scripts/
-- ├── security/
-- ├── api/
-- └── screenshots/
+-  ├── nginx/
+-  ├── scripts/
+-  ├── security/
+-  ├── api/
+-  └── screenshots/
 
 ## Outcome
 - Successfully deployed a publicly accessible web server
@@ -87,6 +87,5 @@ https://dynamicinitiative.online/api
 
  # Author
  -------------------------------------------------------
-## DynamicTech25
-- Aspiring Cloud & DevOps Engineer
-- HNG DevOps Intern
+## Damilola Balogun
+- Cloud & DevOps Engineer
